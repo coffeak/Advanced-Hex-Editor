@@ -28,6 +28,10 @@ A powerful and customizable **Hex Editor** built with PyQt6. Supports multiple f
 ✅ **Show or hide deleted bytes**  
 
 
+![thankyou](https://github.com/user-attachments/assets/458a0020-918a-4ef6-b792-67e83ac69b8a)
+
+
+
 ### **Requirements
 - Python 3.8+  
 - PyQt6  
